@@ -1,0 +1,13 @@
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:multiply">
+<path d="M6 21.5C6 17.3579 9.35786 14 13.5 14C17.6421 14 21 17.3579 21 21.5V23.764C21 24.4466 20.4466 25 19.764 25H7.23596C6.55336 25 6 24.4466 6 23.764V21.5Z" fill="#802EC0"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<circle cx="13.5" cy="10.5" r="4.5" fill="#FFB81E"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<path d="M23.3461 16.8126C23.924 15.8115 25.2041 15.4685 26.2052 16.0465C27.2062 16.6245 27.5492 17.9045 26.9712 18.9056L22.7853 26.1559L19.6646 27.3751L19.1601 24.0629L23.3461 16.8126Z" fill="#03C6AE"/>
+</g>
+<circle cx="13.5" cy="17.5" r="0.5" fill="white"/>
+<circle cx="13.5" cy="21.5" r="0.5" fill="white"/>
+</svg>
